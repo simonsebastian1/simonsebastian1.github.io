@@ -21,3 +21,13 @@
     color: #CC6699;
     font-weight: bold
 }
+.btn-order-now {
+    background-color: #CC6699;
+}
+.btn-order-now:hover, .btn-order-now:active, .btn-order-now:focus {
+    color: #ffffff ;
+    background-color: #CC6699;
+  }
+.p-font {
+    color:black;
+}
